@@ -10,11 +10,13 @@
 		}
 	},
 	"dependencies": {
-		"tns-core-modules": "2.0.1"
+		"tns-core-modules": "2.0.1",
+                "nativescript-hosted-device": "1.0.0",
+                "nativescript-hosted-toast": "1.0.0"
 	},
 	"devDependencies": {
 		"babel-traverse": "6.9.0",
-		"babel-types": "6.9.0",
+		"babel-types": "6.9.1",
 		"babylon": "6.8.0",
 		"filewalker": "0.1.2",
 		"lazy": "1.0.11"
